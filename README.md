@@ -33,15 +33,35 @@ Built with [Rust](https://www.rust-lang.org) for speed and reliability.
 
 ## Installation
 
-### From crates.io
+### Cargo (Rust)
 
 ```bash
 cargo install lol-lint
 ```
 
-### From source
+### Homebrew (macOS/Linux)
 
 ```bash
+brew install jerankda/lol-lint/lol-lint
+```
+
+### AUR (Arch Linux)
+
+```bash
+yay -S lol-lint
+# or
+paru -S lol-lint
+```
+
+### GitHub Releases
+
+Download pre-built binaries from [Releases](https://github.com/jerankda/lol-lint/releases).
+
+### From Source
+
+```bash
+git clone https://github.com/jerankda/lol-lint.git
+cd lol-lint
 cargo build --release
 ```
 
