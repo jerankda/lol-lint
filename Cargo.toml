@@ -2,6 +2,14 @@
 name = "lol-lint"
 version = "0.1.0"
 edition = "2021"
+authors = ["jerankda"]
+description = "A strict, unapologetic linter for LOLCODE"
+license = "MIT"
+repository = "https://github.com/jerankda/lol-lint"
+homepage = "https://github.com/jerankda/lol-lint"
+keywords = ["lolcode", "linter", "static-analysis", "code-quality"]
+categories = ["development-tools", "command-line-utilities"]
+readme = "README.md"
 
 [dependencies]
 clap = { version = "4.5", features = ["derive"] }
