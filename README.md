@@ -10,7 +10,7 @@ A strict, unapologetic linter for **LOLCODE**
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg)](https://www.rust-lang.org)
 
-**A serious linter for serious people working on serious LOLCODE projects.**
+**The language is a joke. This linter isn't.**
 
 </div>
 
