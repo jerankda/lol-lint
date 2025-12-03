@@ -1,4 +1,8 @@
-# lol-lint
+<div align="center">
+
+# LOLLint
+
+A strict, unapologetic linter for **LOLCODE**
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/jerankda/lol-lint/ci.yml?branch=main)](https://github.com/jerankda/lol-lint/actions)
 [![Crates.io](https://img.shields.io/crates/v/lol-lint.svg)](https://crates.io/crates/lol-lint)
@@ -6,7 +10,9 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg)](https://www.rust-lang.org)
 
-> A strict, unapologetic linter for LOLCODE. The language may be a joke. The linter is not.
+</div>
+
+---
 
 ## Features
 
