@@ -7,6 +7,7 @@ A strict, unapologetic linter for **LOLCODE**
 [![Build Status](https://img.shields.io/github/actions/workflow/status/jerankda/lol-lint/ci.yml?branch=main)](https://github.com/jerankda/lol-lint/actions)
 [![Crates.io](https://img.shields.io/crates/v/lol-lint.svg)](https://crates.io/crates/lol-lint)
 [![Downloads](https://img.shields.io/crates/d/lol-lint.svg)](https://crates.io/crates/lol-lint)
+[![AUR](https://img.shields.io/aur/version/lol-lint)](https://aur.archlinux.org/packages/lol-lint)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg)](https://www.rust-lang.org)
 
