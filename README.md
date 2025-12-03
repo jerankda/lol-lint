@@ -221,5 +221,5 @@ Issues and pull requests welcome. Please ensure:
 
 - All tests pass (`./test_all.sh`)
 - Code follows Rust conventions
-- Comments are lowercase and concise
+- Comments are concise
 - No unnecessary complexity
