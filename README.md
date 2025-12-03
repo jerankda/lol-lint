@@ -1,6 +1,6 @@
 <div align="center">
 
-# LOLLint
+# lol-lint
 
 A strict, unapologetic linter for **LOLCODE**
 
